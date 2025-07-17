@@ -38,6 +38,13 @@ Mejora drásticamente la precisión, el seguimiento y la experiencia en juegos F
 
 ---
 
+## 🎬 Demostración en video
+
+[![Demo de SmartVisionPro](https://img.youtube.com/vi/ClGQlN6NJMs/hqdefault.jpg)](https://www.youtube.com/watch?v=ClGQlN6NJMs)  
+▶️ *Haz clic en la imagen para ver la demo completa en YouTube.*
+
+---
+
 ## 📞 Soporte y comunidad
 
 ¿Tienes preguntas, necesitas ayuda o quieres solicitar una licencia?
