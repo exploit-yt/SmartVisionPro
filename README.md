@@ -33,8 +33,10 @@ Mejora drásticamente la precisión, el seguimiento y la experiencia en juegos F
 
 - Consola con soporte para Copycat  
 - [Copycat Launcher](https://github.com/stickassist/copycat) correctamente instalado  
-- Mando de consola (no se admite teclado/ratón)  
-- Licencia válida de SmartVisionPro
+- Mando de consola (❌ no compatible con teclado y ratón)  
+- Licencia válida de SmartVisionPro  
+- ⚙️ **Para ver los requisitos completos y configuración recomendada, únete a nuestro Discord:**
+  👉 [https://discord.com/invite/xJMmQTGKAn](https://discord.com/invite/xJMmQTGKAn)
 
 ---
 
