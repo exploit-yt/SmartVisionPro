@@ -35,6 +35,8 @@ Mejora drásticamente la precisión, el seguimiento y la experiencia en juegos F
 - [Copycat Launcher](https://github.com/stickassist/copycat) correctamente instalado  
 - Mando de consola (❌ no compatible con teclado y ratón)  
 - Licencia válida de SmartVisionPro  
+- 📦 **Modelos YOLOv8 requeridos para detección:**  
+  Descárgalos desde 👉 [Models-Yolov8-onnx-SmartVisionPro](https://github.com/exploit-yt/Models-Yolov8-onnx-SmartVisionPro)  
 - ⚙️ **Para ver los requisitos completos y configuración recomendada, únete a nuestro Discord:**
   👉 [https://discord.com/invite/xJMmQTGKAn](https://discord.com/invite/xJMmQTGKAn)
 
